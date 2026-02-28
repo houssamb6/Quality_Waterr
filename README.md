@@ -76,6 +76,11 @@ This project serves as the **frontend prototype** for an AI-based water quality 
 | Turbidity | NTU | 0 – 5 | Water clarity |
 
 ---
+## 🎥 Live Demo
+
+[![AquaGuard AI Demo](https://img.youtube.com/vi/FkLk9JH1-DY/maxresdefault.jpg)](https://youtu.be/FkLk9JH1-DY)
+
+> Click the image above to watch the full demo on YouTube.
 
 ## 🚀 Getting Started
 
